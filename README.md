@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @chixxyy
+👋 Hi, I’m chi
