@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding+is+fun;Let's+go!&center=false&width=500&height=50&color=36BCF7&font=Fira+Code&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding+is+fun!;Let's+go!&center=false&width=500&height=50&color=36BCF7&font=Fira+Code&size=24">
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chixxyy)
