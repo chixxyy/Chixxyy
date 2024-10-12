@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+GitHub+profile&center=true&width=380&height=50">
 </div>
 
-![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/chixxyy.github.io/visits)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=chixxyy)
 
 ## Hello, I'm chi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 
