@@ -10,7 +10,7 @@
 ✏️ [Medium](https://medium.com/@chixxyy)
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding+is+fun;Let's+build+something+amazing!&center=false&width=500&height=50&color=36BCF7&font=Courier">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding+is+fun;Let's+go!&center=false&width=500&height=50&color=36BCF7&font=Courier">
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chixxyy&layout=compact&theme=radical)
