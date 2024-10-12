@@ -1,5 +1,5 @@
-<div>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+portfolio;I+am+a+developer&center=true&width=500&height=50&color=FF5733&font=Courier">
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+portfolio;I+am+chi;阿祥的工程師之路&center=false&width=500&height=50&color=FF5733&font=Courier">
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chixxyy)
