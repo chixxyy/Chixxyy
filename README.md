@@ -4,8 +4,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chixxyy)
 
-## Hello, I'm chi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
-
-### Welcome
+### Welcome<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 ✏️ [CodePen](https://codepen.io/chixxyy)
 ✏️ [Medium](https://medium.com/@chixxyy)
