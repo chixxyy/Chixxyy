@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=chixxyy.chixxyy">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chixxyy">
 </p>
 
 ## Hello, I'm chi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
@@ -13,4 +13,4 @@
 - ✏️ [Medium](https://medium.com/@chixxyy)
 
 ### Skills
-- Programming languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&style=flat)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&style=flat)
