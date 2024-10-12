@@ -5,5 +5,18 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chixxyy)
 
 ### Welcome<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
-✏️ [CodePen](https://codepen.io/chixxyy)
+
+✏️ [CodePen](https://codepen.io/chixxyy)  
 ✏️ [Medium](https://medium.com/@chixxyy)
+
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding+is+fun;Let's+build+something+amazing!&center=false&width=500&height=50&color=36BCF7&font=Courier">
+</div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chixxyy&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chixxyy&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chixxyy&theme=dark)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Chi is typing...
