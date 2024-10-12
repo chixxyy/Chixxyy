@@ -8,12 +8,6 @@
 
 ## Hello, I'm chi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 
-### About Me
-- 🎓 I am a software developer with experience in JavaScript and Python.
-- 💻 I am passionate about open source and contributing to the community.
-- 🌱 I’m currently learning [React](https://reactjs.org/) and [Vue.js](https://vuejs.org/).
-- 💬 Ask me about **Web Development** and **Machine Learning**!
-
 ### My Projects
 - ✏️ [CodePen](https://codepen.io/chixxyy)
 - ✏️ [Medium](https://medium.com/@chixxyy)
