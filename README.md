@@ -15,4 +15,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chixxyy&layout=compact&theme=radical)
 <br>
-[![Codewars](https://www.codewars.com/users/chixxyy/badges/large)](https://www.codewars.com/users/chixxyy)
+[![Codewars](https://www.codewars.com/users/chixxyy/badges/micro)](https://www.codewars.com/users/chixxyy)
