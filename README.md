@@ -10,7 +10,8 @@
 
 ### Welcome<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 
-✏️ [CodePen](https://codepen.io/chixxyy)  
-✏️ [Medium](https://medium.com/@chixxyy)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/chixxyy)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chixxyy)
+[![Codewars](https://www.codewars.com/users/chixxyy/badges/large)](https://www.codewars.com/users/chixxyy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chixxyy&layout=compact&theme=radical)
