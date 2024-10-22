@@ -9,6 +9,8 @@
 ### Welcome<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 ![visitors](https://komarev.com/ghpvc/?username=chixxyy&label=Profile%20views&color=0e75b6&style=flat)
 [![Codewars](https://www.codewars.com/users/chixxyy/badges/micro)](https://www.codewars.com/users/chixxyy)
+![Leetcode Badge](https://leetcode-badge.vercel.app/api?username=chixxyy)
+
 
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/chixxyy)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chixxyy)
