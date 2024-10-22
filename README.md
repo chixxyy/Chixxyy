@@ -14,5 +14,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chixxyy)
 
 <a href="https://leetcode.com/chixxyy">
-    <img src="https://leetcard.jacoblin.cool/chixxyy" alt="Leetcode Stats" width="ˋ400">
+    <img src="https://leetcard.jacoblin.cool/chixxyy" alt="Leetcode Stats" width="ˋ300">
 </a>
