@@ -9,9 +9,9 @@
 ### Welcome<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 ![visitors](https://komarev.com/ghpvc/?username=chixxyy&label=Profile%20views&color=0e75b6&style=flat)
 [![Codewars](https://www.codewars.com/users/chixxyy/badges/micro)](https://www.codewars.com/users/chixxyy)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/chixxyy)](https://leetcode.com/chixxyy)
 
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/chixxyy)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chixxyy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chixxyy&layout=compact&theme=radical)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/chixxyy)](https://leetcode.com/chixxyy)
