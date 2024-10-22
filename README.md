@@ -13,5 +13,4 @@
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/chixxyy)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chixxyy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chixxyy&layout=compact&theme=radical)
 [![Leetcode Stats](https://leetcard.jacoblin.cool/chixxyy)](https://leetcode.com/chixxyy)
